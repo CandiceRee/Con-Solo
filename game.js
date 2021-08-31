@@ -1,6 +1,4 @@
 // this creates a function named "fight"
-window.prompt("What is your robot's name?");
+var playerName = window.prompt("Tont the Robot");
 
-function fight() {  
-    window.alert("The fight has begun!");
-  }
+  console.log(playerName);
